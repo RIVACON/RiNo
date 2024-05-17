@@ -1,0 +1,13 @@
+name: rino
+channels:
+  - defaults
+dependencies:
+  - pip
+  - python=3.8.19
+  - pip:
+    - matplotlib==3.7.5
+    - numpy==1.24.4
+    - pandas==2.0.3
+    - rivapy==0.0.1
+
+
