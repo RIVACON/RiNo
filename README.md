@@ -18,4 +18,4 @@ Updates and announcements for upcomming notebooks will be posted on our LinkedIn
 
 
 #
-[<img src="images/logo.png" width='300px'>](https://www.rivacon.com/)
+[<img src="images/logo.png" width='300px'>](https://www.rivacon.com/en/)
