@@ -1,11 +1,10 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RIVACON/RiNo/main)
 [![RIVACON](https://img.shields.io/badge/powered%20by-RIVACON-B99D6D.svg)](https://www.rivacon.com/en/)
-[![RiVaPy](https://img.shields.io/badge/based%20on-RiVaPy-B99D6D.svg)](https://github.com/RIVACON/RiVaPy)
 # RiNo :rhinoceros:
-The **Ri**VaPy**No**tebooks (RiNo) repository is a collection of jupyter notebooks based on RIVACON's computational finance library [RiVaPy](https://github.com/RIVACON/RiVaPy).
+The **Ri**VaPy**No**tebooks (RiNo) repository is a collection of jupyter notebooks based on RIVACON's computational finance library RiVaPy.
 
-Each jupyter notebook aims to highlights one specific topic in the fields of quantitative finance or energy markets. Therefore, our notebooks are designed to be self sufficient and contain executable code or plain markdown.
+Each jupyter notebook aims to highlight one specific topic in the fields of quantitative finance or energy markets. Therefore, our notebooks are designed to be self sufficient and contain executable code or plain markdown.
 
 By clicking on the **binder** badge at the top, you can start a safari through our various notebooks. 
 
